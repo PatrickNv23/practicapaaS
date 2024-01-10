@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $tecnologia = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "Tecnologias 2024",
+"autor" => "Pedro Gonzales Guevara",
+"resumen" => "IA, internet de las cosas, etc",
 ];
 ?>

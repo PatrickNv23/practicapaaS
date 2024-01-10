@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $formacion = [
-"titulo" => "XXX",
+"titulo" => "Formación",
 "autor" => "Gabinete de comunicación",
-"resumen" => "XXX",
+"resumen" => "Gabinete",
 ];
 ?>
